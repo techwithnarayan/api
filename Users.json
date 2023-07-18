@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Naari",
+      "email": "naari@gmail.com",
+      "name": "Narayan",
+      "password": "admin@12345",
+      "image": "https://robohash.org/autquiaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 2,
+      "username": "kminchelle",
+      "email": "test@gmail.com",
+      "name": "Jeanne",
+      "password": "admin@123",
+      "image": "https://robohash.org/autquiaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 3,
+      "username": "kminchelle",
+      "email": "test@ymail.com",
+      "name": "Jeanne",
+      "password": "admin@123",
+      "image": "https://robohash.org/autquiaut.png?size=50x50&set=set1"
+    }
+  ]
+}
