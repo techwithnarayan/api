@@ -1,111 +1,466 @@
 {
   "posts": [
-   {
-  "Title": "Dragon Ball",
-  "Year": "1995–2003",
-  "Rated": "TV-14",
-  "Released": "09 Sep 1995",
-  "Runtime": "38S min",
-  "Category": "Animation",
-  "Genre": "Animation, Action, Adventure",
-  "Actors": "Brice Armstrong, Steve Olson, Stephanie Nadolny",
-  "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
-  "Language": "Dual-Audio",
-  "Ratings": "8.6/10",
-  "View":"https://ia801501.us.archive.org/20/items/dbdhdgvdhs-it-igsdgdi-digig-ig/Bigg%20Boss%20Season%2013%20Episode%201%20Hotness%20Alert%20Malkin%20in%20the%20house%20Voot.mp4",
-  "Download":"https://demo.seafile.com/f/a8da803b6b7c4c308c58/?dl=1",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-  "images": [
-    "https://imgur.com/FA80gwM?r",
-    "https://imgur.com/R5Z9hEq?r"
-   
-  ]
-},
-   {
-  "Title": "Dragon Ball Z",
-  "Year": "1995–2003",
-  "Rated": "TV-14",
-  "Released": "09 Sep 1995",
-  "Runtime": "38S min",
-  "Category": "Bollywood Movies",
-  "Genre": "Animation, Action, Adventure",
-  "Actors": "Brice Armstrong, Steve Olson, Stephanie Nadolny",
-  "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
-  "Language": "Dual-Audio",
-  "Ratings": "8.6/10",
-  "View":"https://demo.seafile.com/f/2065cf121462428eab68/",
-  "Download":"https://demo.seafile.com/f/2065cf121462428eab68/?dl=1",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-  "images": [
-    "https://imgur.io/FA80gwM?r",
-    "http://i.imgur.com/orunSTu.gif"
-  ]
-},
     {
-  "Title": "Dragon Ball Super",
-  "Year": "1995–2003",
-  "Rated": "TV-14",
-  "Released": "09 Sep 1995",
-  "Runtime": "38S min",
-  "Category": "Hollywood Movies",
-  "Genre": "Animation, Action, Adventure",
-  "Actors": "Brice Armstrong, Steve Olson, Stephanie Nadolny",
-  "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
-  "Language": "Dual-Audio",
-  "Ratings": "8.6/10",
-  "View":"https://demo.seafile.com/f/2065cf121462428eab68/",
-  "Download":"https://demo.seafile.com/f/2065cf121462428eab68/?dl=1",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-  "images": [
-    "https://ibb.co/tXbHZyp",
-    "https://ibb.co/nC95Zyp",
-    "https://ibb.co/tzXWLtG",
-    "https://ibb.co/JpYt3kf"
-  ]
-},
-   {
-  "Title": "Dragon Ball Super Heroes",
-  "Year": "1995–2003",
-  "Rated": "TV-14",
-  "Released": "09 Sep 1995",
-  "Runtime": "38S min",
-  "Category": "Web Series",
-  "Genre": "Animation, Action, Adventure",
-  "Actors": "Brice Armstrong, Steve Olson, Stephanie Nadolny",
-  "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
-  "Language": "Dual-Audio",
-  "Ratings": "8.6/10",
-  "View":"https://demo.seafile.com/f/2065cf121462428eab68/",
-  "Download":"https://demo.seafile.com/f/2065cf121462428eab68/?dl=1",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-  "images": [
-    "https://ibb.co/tXbHZyp",
-    "https://ibb.co/nC95Zyp",
-    "https://ibb.co/tzXWLtG",
-    "https://ibb.co/JpYt3kf"
-  ]
-},
+      "Title": "Game of Thrones",
+      "Year": "2011–2019",
+      "Rated": "TV-MA",
+      "Released": "17 Apr 2011",
+      "Runtime": "57 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "David Benioff, D.B. Weiss",
+      "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+      "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for a millennia.",
+      "Language": "English",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 59 Primetime Emmys. 389 wins & 634 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+      "Ratings": "9.2/10",
+      "Metascore": "N/A",
+      "imdbRating": "9.2",
+      "imdbVotes": "2,184,817",
+      "imdbID": "tt0944947",
+      "Type": "series",
+      "totalSeasons": "8",
+      "Response": "True",
+      "seasons": [
+        {
+          "season_number": "1",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            },
+            {
+              "episode_number": "3",
+              "episode_title": "Episode 3",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "4",
+              "episode_title": "Episode 4",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "2",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "3",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            }
+          ]
+        }
+      ]
+    },
     {
-  "Title": "Dragon Ball Kai",
-  "Year": "1995–2003",
-  "Rated": "TV-14",
-  "Released": "09 Sep 1995",
-  "Runtime": "38S min",
-  "Category": "Animation",
-  "Genre": "Animation, Action, Adventure",
-  "Actors": "Brice Armstrong, Steve Olson, Stephanie Nadolny",
-  "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
-  "Language": "Dual-Audio",
-  "Ratings": "8.6/10",
-  "View":"https://demo.seafile.com/f/2065cf121462428eab68/",
-  "Download":"https://demo.seafile.com/f/2065cf121462428eab68/?dl=1",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-  "images": [
-    "https://ibb.co/tXbHZyp",
-    "https://ibb.co/nC95Zyp",
-    "https://ibb.co/tzXWLtG",
-    "https://ibb.co/JpYt3kf"
-  ]
-}
+      "Title": "Bigg Boss",
+      "Year": "2006–",
+      "Rated": "N/A",
+      "Released": "03 Nov 2006",
+      "Runtime": "42 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Salman Khan, Atul Kapoor, Vijay Vikram Singh",
+      "Plot": "Isolated from the outside world, the contestants live together in a house under the live cameras that monitor their every move. They perform various tasks and avoid eviction to be declared a winner.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "33 wins & 13 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjZhNTJmZjAtOGM0MC00NTM0LWJjZTYtMjBhMGUwZDdmYjBjXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_SX300.jpg",
+      "Ratings": "3.8/10",
+      "Metascore": "N/A",
+      "imdbRating": "3.8",
+      "imdbVotes": "3,709",
+      "imdbID": "tt1281973",
+      "Type": "series",
+      "totalSeasons": "16",
+      "Response": "True",
+      "seasons": [
+        {
+          "season_number": "13",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Season Premiere",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Time To Break Some Hearts!",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            },
+            {
+              "episode_number": "3",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "4",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            },
+            {
+              "episode_number": "5",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "6",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "2",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Vicky Donor",
+      "Year": "2012",
+      "Rated": "Not Rated",
+      "Released": "20 Apr 2012",
+      "Runtime": "126 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Shoojit Sircar",
+      "Writer": "Juhi Chaturvedi",
+      "Actors": "Ayushmann Khurrana, Yami Gautam, Annu Kapoor",
+      "Plot": "A man is brought in by an infertility doctor to supply him with his sperm, where he becomes the biggest sperm donor for his clinic.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "42 wins & 35 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNlODE1ZTEtOTQ5MS00N2QwLTllNjItZDQ2Y2UzMmU5YmI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": "7.8/10",
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "44,496",
+      "imdbID": "tt2317337",
+      "Type": "movie",
+      "DVD": "30 Nov 2016",
+      "BoxOffice": "$549,001",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dragon Ball",
+      "Released": "09 Sep 1995",
+      "Genre": "Animation, Action, Adventure",
+      "Category": "Hollywood",
+      "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
+      "Actors": [
+        "Brice Armstrong",
+        "Steve Olson",
+        "Stephanie Nadolny"
+      ],
+      "Ratings": "8.6/10",
+      "View": "https://ia801501.us.archive.org/20/items/dbdhdgvdhs-it-igsdgdi-digig-ig/Bigg%20Boss%20Season%2013%20Episode%201%20Hotness%20Alert%20Malkin%20in%20the%20house%20Voot.mp4",
+      "Download": "https://demo.seafile.com/f/a8da803b6b7c4c308c58/?dl=1",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "images": [
+        "https://imgur.com/FA80gwM?r",
+        "https://imgur.com/R5Z9hEq?r"
+      ]
+    },
+    {
+      "Title": "Dragon Ball",
+      "Released": "09 Sep 1995",
+      "Genre": "Animation, Action, Adventure",
+      "Category": "Animation",
+      "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
+      "Actors": [
+        "Brice Armstrong",
+        "Steve Olson",
+        "Stephanie Nadolny"
+      ],
+      "Ratings": "8.6/10",
+      "View": "https://ia801501.us.archive.org/20/items/dbdhdgvdhs-it-igsdgdi-digig-ig/Bigg%20Boss%20Season%2013%20Episode%201%20Hotness%20Alert%20Malkin%20in%20the%20house%20Voot.mp4",
+      "Download": "https://demo.seafile.com/f/a8da803b6b7c4c308c58/?dl=1",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "images": [
+        "https://imgur.com/FA80gwM?r",
+        "https://imgur.com/R5Z9hEq?r"
+      ]
+    },
+    {
+      "Title": "Dragon Ball",
+      "Released": "09 Sep 1995",
+      "Genre": "Animation, Action, Adventure",
+      "Category": "Hollywood",
+      "Plot": "Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.",
+      "Actors": [
+        "Brice Armstrong",
+        "Steve Olson",
+        "Stephanie Nadolny"
+      ],
+      "Ratings": "8.6/10",
+      "View": "https://ia801501.us.archive.org/20/items/dbdhdgvdhs-it-igsdgdi-digig-ig/Bigg%20Boss%20Season%2013%20Episode%201%20Hotness%20Alert%20Malkin%20in%20the%20house%20Voot.mp4",
+      "Download": "https://demo.seafile.com/f/a8da803b6b7c4c308c58/?dl=1",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "images": [
+        "https://imgur.com/FA80gwM?r",
+        "https://imgur.com/R5Z9hEq?r"
+      ]
+    },
+    {
+      "Title": "Oppenheimer",
+      "Year": "2023",
+      "Rated": "R",
+      "Released": "21 Jul 2023",
+      "Runtime": "180 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+      "Actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+      "Plot": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+      "Language": "English, Dutch",
+      "Country": "United States, United Kingdom",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg",
+      "Ratings": "8.7/10",
+      "Metascore": "88",
+      "imdbRating": "8.7",
+      "imdbVotes": "252,355",
+      "imdbID": "tt15398776",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$174,566,060",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Money Heist",
+      "Year": "2017–2021",
+      "Rated": "TV-MA",
+      "Released": "02 May 2017",
+      "Runtime": "70 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Álex Pina",
+      "Actors": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
+      "Plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "Language": "Spanish, Russian, Serbian, English",
+      "Country": "Spain",
+      "Awards": "38 wins & 45 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX300.jpg",
+      "Ratings": "8.2/10",
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "502,935",
+      "imdbID": "tt6468322",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True",
+      "seasons": [
+        {
+          "season_number": "1",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "2",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "2",
+          "episodes": [
+            {
+              "episode_number": "3",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "4",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        },
+        {
+          "season_number": "5",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Wednesday",
+      "Year": "2022–",
+      "Rated": "TV-14",
+      "Released": "23 Nov 2022",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Crime, Fantasy",
+      "Director": "N/A",
+      "Writer": "Alfred Gough, Miles Millar",
+      "Actors": "Jenna Ortega, Emma Myers, Hunter Doohan",
+      "Plot": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart a killing spree, and solve the mystery that embroiled her parents.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 12 Primetime Emmys. 9 wins & 36 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+      "Ratings": "8.1/10",
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "330,058",
+      "imdbID": "tt13443470",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True",
+      "seasons": [
+        {
+          "season_number": "1",
+          "episodes": [
+            {
+              "episode_number": "1",
+              "episode_title": "Episode 1",
+              "download_link": "https://episode1-download-link.com",
+              "play_link": "https://episode1-play-link.com"
+            },
+            {
+              "episode_number": "2",
+              "episode_title": "Episode 2",
+              "download_link": "https://episode2-download-link.com",
+              "play_link": "https://episode2-play-link.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "Dream Girl",
+      "Year": "2019",
+      "Rated": "Not Rated",
+      "Released": "13 Sep 2019",
+      "Runtime": "132 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Raaj Shaandilyaa",
+      "Writer": "Nirmaan Dsingh, Niket Pandey, Raaj Shaandilyaa",
+      "Actors": "Ayushmann Khurrana, Nushrratt Bharuccha, Annu Kapoor",
+      "Plot": "Rom-com Movie, directed by Raaj Shaandilyaa, stars Ayushmann Khurrana who plays a 'dream girl'. In every love story, there is always one trying to win the heart of the other, who could be the 'dream girl'.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "1 win & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyMzU3YjgtZTliNS00NWM2LWI5ODgtYWE3ZjAzODgyNjNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+      "Ratings": "7.0/10",
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "15,281",
+      "imdbID": "tt9248940",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   ]
 }
